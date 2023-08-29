@@ -1,0 +1,5 @@
+
+dd:    dd
+1:    Soðuk duþ
+3:    python gelistirmek
+a:    aa
